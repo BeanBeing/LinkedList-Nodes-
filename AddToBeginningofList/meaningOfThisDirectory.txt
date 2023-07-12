@@ -1,0 +1,9 @@
+This directory is supposed to represent using a LinkedList and making the 
+the item be pushed to the beginning of the list.
+
+Naturally, you push it to the end of the list, but the function here
+will make us push it to the beginning of the list...
+
+1. Create a new item and set its value
+2. Link the new item to point to the head of the list
+3. Set the head of the list to be our new item
